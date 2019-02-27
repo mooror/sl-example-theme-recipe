@@ -1,0 +1,8 @@
+---
+Name: appconfig
+Before:
+  - coreconfig
+---
+# YAML configuration for SilverStripe
+SilverStripe\i18n\i18n:
+  default_locale: 'en_US'
