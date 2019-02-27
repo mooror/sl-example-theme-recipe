@@ -21,15 +21,15 @@
     },
     "extra": {
         "project-files": [
-            "app/_config/*",
-            "app/src/*",
-            "app/tests/*",
-            "public/*",
             ".editorconfig",
             ".example.env",
             ".gitignore",
             ".htaccess",
             "phpunit.xml.dist",
+            "app/_config/*",
+            "app/src/*",
+            "app/tests/*",
+            "public/*",
             "theme-default/*"
         ],
         "public-files": [
